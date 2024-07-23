@@ -1,7 +1,2 @@
-# Video debug Binary_Seacrh:
-
-
-# Video debug Merge_Sort:
-
-
-# Video debug Nhân 2 số nguyên lớn:
+# Video debug xem tại google drive
+https://drive.google.com/drive/folders/1mvtqiJKUd3-RToX5B4toorLB0z171Fap?usp=sharing
